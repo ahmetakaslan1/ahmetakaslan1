@@ -25,7 +25,7 @@
 
 ### 🚀 About Me
 
-> Merhaba, ben Ahmet Akaslan. Web ve mobil teknolojiler alanında çalışan bir yazılım mühendisiyim. Teknolojiye olan ilgim, yalnızca “nasıl çalıştığını” anlamakla kalmayıp, neden öyle çalıştığını sorgulamakla başladı. Kod yazmak benim için sadece teknik bir beceri değil, aynı zamanda düşünme biçimi ve üretme şekli. Sürekli değişen dijital dünyada kendimi güncel tutmayı, yeni teknolojilerin mantığını çözmeyi ve sistemlerin derin yapısını anlamayı öncelikli görüyorum. Her teknolojiyi öğrenmek mümkün olmasa da, gerçek değer üreten araçları en iyi şekilde kavramaya odaklanıyorum. Bugün, kendi projelerim üzerinden hem kullanıcı deneyimini hem de sürdürülebilir yazılım mimarisini geliştirmeye çalışıyorum. Chain Flow gibi kişisel projelerimle, teknolojiyi insanlara fayda sağlayan bir forma dönüştürmeyi hedefliyorum. Yazılımın gücüne inanıyorum: doğru fikir, doğru mimari ve doğru motivasyon birleştiğinde, küçük bir satır kod bile büyük bir fark yaratabilir.
+> "Merhaba, ben Ahmet Akaslan. Web ve mobil teknolojiler alanında çalışan bir yazılım mühendisiyim. Teknolojiye olan ilgim, yalnızca “nasıl çalıştığını” anlamakla kalmayıp, neden öyle çalıştığını sorgulamakla başladı. Kod yazmak benim için sadece teknik bir beceri değil, aynı zamanda düşünme biçimi ve üretme şekli. Sürekli değişen dijital dünyada kendimi güncel tutmayı, yeni teknolojilerin mantığını çözmeyi ve sistemlerin derin yapısını anlamayı öncelikli görüyorum. Her teknolojiyi öğrenmek mümkün olmasa da, gerçek değer üreten araçları en iyi şekilde kavramaya odaklanıyorum. Bugün, kendi projelerim üzerinden hem kullanıcı deneyimini hem de sürdürülebilir yazılım mimarisini geliştirmeye çalışıyorum. Chain Flow gibi kişisel projelerimle, teknolojiyi insanlara fayda sağlayan bir forma dönüştürmeyi hedefliyorum. Yazılımın gücüne inanıyorum: doğru fikir, doğru mimari ve doğru motivasyon birleştiğinde, küçük bir satır kod bile büyük bir fark yaratabilir."
 
 ---
 
@@ -52,6 +52,13 @@ Mevcut yeteneklerim ve üzerinde çalıştığım teknolojiler:
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+#### 🤖 AI & Data Science Interests
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=Google%20Lens&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
 #### 🗄️ Database & Cloud
