@@ -75,16 +75,22 @@ Mevcut yeteneklerim ve üzerinde çalıştığım teknolojiler:
 </p>
 
 ---
+
+
 <div align="center">
 
 ### 📊 GitHub Stats
 
-![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmetakaslan&show_icons=true&theme=tokyonight&hide_border=true&locale=tr)
+<img src="https://github-readme-stats.vercel.app/api?username=ahmetakaslan&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="Ahmet's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmetakaslan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetakaslan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmetakaslan&label=Profile%20Views&color=blue&style=flat)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetakaslan&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ahmetakaslan&label=Profile%20Views&color=blue&style=flat" alt="ahmetakaslan" />
 
 </div>
