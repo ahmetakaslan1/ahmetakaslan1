@@ -8,13 +8,13 @@
   </a>
 
   <p>
-    <a href="https://linkedin.com/in/ahmetakaslan" target="_blank">
+    <a href="https://www.linkedin.com/in/ahmet-akaslan-029127248/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
-    <a href="https://medium.com/@ahmetakaslan" target="_blank">
+    <a href="https://medium.com/@akaslan47yazilim" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
     </a>
-    <a href="https://www.behance.net/ahmetakaslan" target="_blank">
+    <a href="https://www.behance.net/ahmetakaslan1" target="_blank">
       <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance"/>
     </a>
   </p>
@@ -50,9 +50,8 @@ Mevcut yeteneklerim ve üzerinde çalıştığım teknolojiler:
 #### ⚙️ Backend & API
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Csharp"/>
 </p>
 
 #### 🗄️ Database & Cloud
