@@ -17,6 +17,9 @@
     <a href="https://www.behance.net/ahmetakaslan1" target="_blank">
       <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance"/>
     </a>
+    <a href="https://github.com/Ahmetakaslan?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a>
   </p>
 
 </div>
