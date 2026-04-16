@@ -4,7 +4,7 @@
   <h1>Hi 👋, I'm Ahmet Akaslan</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Mobile+Developer+(Flutter);Backend+Developer+(Spring+Boot);Building+Scalable+Applications;REST+API+%26+System+Design" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Mobile+Developer+(Flutter);Backend+Developer+(Spring+Boot+%26+NestJS);Building+Scalable+Applications;REST+API+%26+System+Design" />
   </a>
 
   <br/>
@@ -27,20 +27,21 @@
 I am a software developer focused on **mobile and backend development**.
 
 * 📱 I build mobile applications using **Flutter & Dart**
-* ⚙️ I develop backend services with **Java & Spring Boot**
+* ⚙️ I develop backend services with **Java (Spring Boot) and NestJS**
 * 🔐 I work with **REST APIs, authentication (JWT), and database design**
 * 🧠 I focus on building **scalable and maintainable systems**, not just writing code
 
-My goal is to develop **real-world applications** where mobile apps are powered by strong backend architectures.
+My goal is to build **production-ready applications** where mobile apps are powered by strong backend architectures.
 
 ---
 
-## 🧩 What I Build
+## 🧩 What I Do
 
-* Mobile applications with clean UI/UX
-* Backend systems with RESTful APIs
-* Authentication & authorization systems
-* Full-stack projects (Mobile + Backend integration)
+* Develop mobile applications with clean and functional UI
+* Build backend systems with RESTful APIs
+* Design authentication & authorization systems
+* Integrate mobile apps with backend services
+* Work on full-stack application logic (Mobile + Backend)
 
 ---
 
@@ -58,6 +59,7 @@ My goal is to develop **real-world applications** where mobile apps are powered 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
 ### 🗄️ Database
@@ -76,24 +78,6 @@ My goal is to develop **real-world applications** where mobile apps are powered 
 
 ---
 
-## 📌 Featured Projects
-
-> ⚠️ Bu kısmı SEN dolduracaksın (çok önemli)
-
-* 🔹 **Project Name**
-
-  * Description: Short explanation of what problem it solves
-  * Tech: Flutter + Spring Boot + MySQL
-  * Features: Auth, API, CRUD, etc.
-
-* 🔹 **Project Name**
-
-  * Description: ...
-  * Tech: ...
-  * Features: ...
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -108,8 +92,8 @@ My goal is to develop **real-world applications** where mobile apps are powered 
 
 ## 🎯 Current Focus
 
-* Improving backend architecture with **Spring Boot**
-* Building production-ready mobile apps
-* Creating full-stack projects that solve real problems
+* Building backend systems with **Spring Boot & NestJS**
+* Developing scalable mobile applications
+* Improving system design and API architecture
 
 ---
