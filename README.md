@@ -4,96 +4,112 @@
   <h1>Hi 👋, I'm Ahmet Akaslan</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Software+Engineer;Flutter+%26+Dart+Enthusiast;Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Mobile+Developer+(Flutter);Backend+Developer+(Spring+Boot);Building+Scalable+Applications;REST+API+%26+System+Design" />
   </a>
+
+  <br/>
 
   <p>
     <a href="https://www.linkedin.com/in/ahmet-akaslan-029127248/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-    </a>
-    <a href="https://medium.com/@akaslan47yazilim" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
-    </a>
-    <a href="https://www.behance.net/ahmetakaslan1" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://github.com/Ahmetakaslan?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-</a>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
   </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-> Merhaba, ben Ahmet Akaslan. Web ve mobil teknolojiler alanında çalışan bir yazılım mühendisiyim. Teknolojiye olan ilgim, yalnızca “nasıl çalıştığını” anlamakla kalmayıp, neden öyle çalıştığını sorgulamakla başladı. Kod yazmak benim için sadece teknik bir beceri değil, aynı zamanda düşünme biçimi ve üretme şekli. Sürekli değişen dijital dünyada kendimi güncel tutmayı, yeni teknolojilerin mantığını çözmeyi ve sistemlerin derin yapısını anlamayı öncelikli görüyorum. Her teknolojiyi öğrenmek mümkün olmasa da, gerçek değer üreten araçları en iyi şekilde kavramaya odaklanıyorum. Bugün, kendi projelerim üzerinden hem kullanıcı deneyimini hem de sürdürülebilir yazılım mimarisini geliştirmeye çalışıyorum. Chain Flow gibi kişisel projelerimle, teknolojiyi insanlara fayda sağlayan bir forma dönüştürmeyi hedefliyorum. Yazılımın gücüne inanıyorum: doğru fikir, doğru mimari ve doğru motivasyon birleştiğinde, küçük bir satır kod bile büyük bir fark yaratabilir.
+I am a software developer focused on **mobile and backend development**.
 
----
+* 📱 I build mobile applications using **Flutter & Dart**
+* ⚙️ I develop backend services with **Java & Spring Boot**
+* 🔐 I work with **REST APIs, authentication (JWT), and database design**
+* 🧠 I focus on building **scalable and maintainable systems**, not just writing code
 
-### 🛠️ Languages and Tools
-
-Mevcut yeteneklerim ve üzerinde çalıştığım teknolojiler:
-
-#### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
-
-#### 💻 Web & Frontend (React / Next.js)
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"/>
-</p>
-
-#### ⚙️ Backend & API
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-#### 🤖 AI & Data Science Interests
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=Google%20Lens&logoColor=white" alt="AI"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-
-#### 🗄️ Database & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-#### 🔧 Tools & Others
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab"/>
-</p>
+My goal is to develop **real-world applications** where mobile apps are powered by strong backend architectures.
 
 ---
 
+## 🧩 What I Build
+
+* Mobile applications with clean UI/UX
+* Backend systems with RESTful APIs
+* Authentication & authorization systems
+* Full-stack projects (Mobile + Backend integration)
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+> ⚠️ Bu kısmı SEN dolduracaksın (çok önemli)
+
+* 🔹 **Project Name**
+
+  * Description: Short explanation of what problem it solves
+  * Tech: Flutter + Spring Boot + MySQL
+  * Features: Auth, API, CRUD, etc.
+
+* 🔹 **Project Name**
+
+  * Description: ...
+  * Tech: ...
+  * Features: ...
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ahmetakaslan&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmetakaslan&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="Ahmet's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetakaslan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetakaslan&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ahmetakaslan&label=Profile%20Views&color=blue&style=flat" alt="ahmetakaslan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetakaslan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+
+## 🎯 Current Focus
+
+* Improving backend architecture with **Spring Boot**
+* Building production-ready mobile apps
+* Creating full-stack projects that solve real problems
+
+---
